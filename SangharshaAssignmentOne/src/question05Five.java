@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //5.Write a program to find the area of a circle, rectangle, and triangle.
-public class questionFive {
+public class question05Five {
 
 	public static void main(String[] args) {
 	System.out.println("Choose 1 or 2 or 3 To find the area? \n 1:Circle \n 2:Triangle \n 3:Rectangle");

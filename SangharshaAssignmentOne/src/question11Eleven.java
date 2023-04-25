@@ -2,7 +2,7 @@
 a) using temp variable
 b) without temp variable
 */
-public class questionEleven {
+public class question11Eleven{
 
 	public static void main(String[] args) {
 		Swap(10,7,0);

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //7.Write a program to find the perimeter of a circle, triangle, and rectangle.
-public class questionSeven {
+public class question07Seven {
 
 	public static void main(String[] args) {
 		System.out.println(
@@ -43,7 +43,7 @@ public class questionSeven {
 		Scanner input=new Scanner(System.in);
 		float l=input.nextFloat();
 		float b=input.nextFloat();
-		System.out.println("The perimeter of rectangle with length "+l+" and breadth "+b+" is "+(l+b)+" units");
+		System.out.println("The perimeter of rectangle with length "+l+" and breadth "+b+" is "+(2*(l+b))+" units");
 	}
 
 }

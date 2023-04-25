@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //9. Write a program to convert Fahrenheit to Celsius and Celsius to Fahrenheit.
-public class questionNine {
+public class question09Nine {
 
 	public static void main(String[] args) {
 		FahrenheitToCelsius();

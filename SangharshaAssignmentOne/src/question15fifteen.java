@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //15. Write a program that receives an ASCII code (between 0 – 128) and display its character [example: 97 (input) ->a(output)].
-public class questionfifteen {
+public class question15fifteen {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

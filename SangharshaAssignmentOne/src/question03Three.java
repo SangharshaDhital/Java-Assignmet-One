@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Write a program to find sum and average of two numbers input by User (using Scanner class).
-public class questionThree {
+public class question03Three {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

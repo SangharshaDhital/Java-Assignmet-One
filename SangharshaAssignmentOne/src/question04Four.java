@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //4.Write a program to calculate Simple Interest input by the user. Simple Interest = P*T*R/100
-public class questionFour {
+public class question04Four {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

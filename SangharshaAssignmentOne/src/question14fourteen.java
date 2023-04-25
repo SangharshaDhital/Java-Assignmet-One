@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //14. Write a program to relate two integers entered by the user using = =or > or < sign.
-public class questionfourteen {
+public class question14fourteen {
 
 	public static void main(String[] args) {
 		System.out.println("Enter two integer numbers:");

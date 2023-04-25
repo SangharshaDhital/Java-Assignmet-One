@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //13. Write a program to print the number entered by the user only if the number entered is negative.
-public class questionthirteen {
+public class question13thirteen {
 
 	
 	public static void main(String[] args) {

@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*12. Write a program to accept the roll, name, and nationality of 
  * the person and display those values in good format.
  */
-public class questionTwelve {
+public class question12Twelve {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
