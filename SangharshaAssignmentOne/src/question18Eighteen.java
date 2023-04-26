@@ -10,9 +10,9 @@ System.out.println("Enter three numbers:");
 for(int i=0;i<3;i++) {
 	num[i]=input.nextFloat();
 	}
-System.out.print("The lagest no. among :");
+System.out.print("The lagest no. among ");
 for(int i=0;i<3;i++) {
-	System.out.print(num[i]+" ,  ");
+	System.out.print(num[i]+" , ");
 }
 
 float largest=num[0];
