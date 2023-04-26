@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class question16Sixteen {
 
 	public static void main(String[] args) {
-		System.out.println("Enter the no.: ");
+		System.out.println("Enter a no.: ");
 		Scanner input=new Scanner(System.in);
 		int n=input.nextInt();
 		if (n%2==0) {
