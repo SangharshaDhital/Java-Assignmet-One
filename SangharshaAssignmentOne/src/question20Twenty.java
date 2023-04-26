@@ -11,7 +11,7 @@ public class question20Twenty {
 		Scanner input=new Scanner(System.in);
 		System.out.println("Enter the first no.");
 		int a=input.nextInt();
-		System.out.println("Enter the Operato (+,-,*,/");
+		System.out.print("Enter the Operato (+,-,*,/):");
 		char ch=input.next().charAt(0);
 		System.out.println("Enter the second no.");
 		int b=input.nextInt();
