@@ -13,7 +13,7 @@ public class question26Twentysix {
 		while (n > 0) {
 			reminder = n % 10;
 			reverse = reverse * 10 + reminder;
-			n = n / 10;
+			n = n / 10;		
 		}
 		System.out.println("reverse of " + a + " is " + reverse);
 	}
