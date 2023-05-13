@@ -19,8 +19,8 @@ for(int i=1;i<=n;i++) {
 	//System.out.println(sum);
 }
 System.out.println("The sum of function a=1+(2/2!)+(3/3!)+4/4!)+...+(n/n!) upto "+n+"th value is: "+sum);
-System.out.println("it will find the persise value upto 33rd term \nafter that it can't hold it's value\n"
-		+ " and shows infinity which is not correct take it's value as 2.718281885744502 if showing infinity");
+System.out.println("\n\nit will find the persise value upto 33rd term \nafter that it can't hold it's value\n"
+		+ "and shows infinity which is not correct take it's value as 2.718281885744502 if showing infinity");
 	}
 
 }
