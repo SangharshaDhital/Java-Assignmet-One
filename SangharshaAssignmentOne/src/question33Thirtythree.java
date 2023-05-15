@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //33. Write a Program to display numbers in ascending order in array
-public class questin33Thirtythree {
+public class question33Thirtythree {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
@@ -12,6 +12,10 @@ public class questin33Thirtythree {
 		int temp = 0;
 		for (int i = 0; i < n; i++) {
 			a[i] = input.nextInt();
+		}
+		System.out.println("The Entered Array is:");
+		for(int i=0;i<n;i++) {
+			System.out.println(a[i]);
 		}
 		for (int i = 0; i < n; i++) {
 			for (int j = i; j < n; j++) {

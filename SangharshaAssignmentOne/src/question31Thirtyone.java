@@ -5,7 +5,7 @@
 1234
 12345
 */
-public class questin31Thirtyone {
+public class question31Thirtyone {
 
 	public static void main(String[] args) {
 		for (int row = 1; row <= 5; row++) {

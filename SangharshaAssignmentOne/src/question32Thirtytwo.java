@@ -12,7 +12,12 @@ public class question32Thirtytwo {
 			a[i]=input.nextInt();
 			sum+=a[i];
 			}
-		System.out.println("The required sum of above entered no. is: "+sum);
+		System.out.print("The entered Array is: ");
+		for(int i=0;i<5;i++) {
+		System.out.print(a[i]+" ");	
+		}
+		
+		System.out.println("\nThe required sum of above entered no. in an Array is: "+sum);
 	}
 
 }
