@@ -4,17 +4,17 @@ import java.util.Scanner;
 public class question39Thirtynine {
 
 	public static void main(String[] args) {
-		Scanner input=new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		System.out.println("Enter First name:");
-		String fName=input.next();
-		char f=fName.charAt(0);
+		String fName = input.next();
+		char f = fName.charAt(0);
 		System.out.println("Enter Middle name:");
-		String mName=input.next();
-		char m=mName.charAt(0);
+		String mName = input.next();
+		char m = mName.charAt(0);
 		System.out.println("Enter Last name:");
-		String lName=input.next();
-		System.out.println("The Short Verson of name: \n"+fName+" "+mName+" "+lName+" \nis :\n"+f+". "+m+". "+lName);
-		
+		String lName = input.next();
+		System.out.println("The Short Verson of name: \n" + fName + " " + mName + " " + lName + " \nis :\n" + f + ". "
+				+ m + ". " + lName);
 
 	}
 
